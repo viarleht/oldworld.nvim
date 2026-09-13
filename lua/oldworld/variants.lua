@@ -1,7 +1,7 @@
 local palettes = {
     default = {
         bg = "#161617",
-        fg = "#c9c7cd",
+        fg = "#e0b884", --"#c9c7cd",
         subtext1 = "#b4b1ba",
         subtext2 = "#9f9ca6",
         subtext3 = "#8b8693",
